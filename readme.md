@@ -42,7 +42,7 @@ This application predicts whether a stock's closing price will go **UP or DOWN**
 ## 🔧 Installation
 
 ### 1. Clone the repository
-
+<--
 ```bash
 git clone https://github.com/<your-username>/stock-predictor.git
 cd stock-predictor
@@ -51,3 +51,6 @@ streamlit run stock_dashboard.py
 📁 stock-predictor/
 ├── stock_dashboard.py       # Main app file
 ├── requirements.txt         # Python dependencies
+--/>
+author
+karthik reddt
